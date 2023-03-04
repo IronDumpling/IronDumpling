@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Chuyue Zhang - aka Charlie Zhang or IronDumpling
+# Chuyue Zhang - aka Charlie or IronDumpling
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chuyue-zhang-27216a207/)
-[![Twitter](https://img.shields.io/twitter/follow/[your-twitter-handle]?style=social)](https://twitter.com/Irondump1ing)
+[![Twitter](https://img.shields.io/twitter/follow/Irondump1ing?style=social)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/IronDumpling)
 [![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://www.chuyue.com/)
 
@@ -41,10 +41,9 @@ I am a software engineer with 2 years of experience in gaming industry. I have a
 
 ## Education
 
-- [Degree] in [Field of Study], [University], [Graduation Year]
-- [Degree] in [Field of Study], [University], [Graduation Year]
+- [Bachelor] in [Computer Engineering], [University of Toronto], [2024]
 
 ## Contact Me
 
-If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me via [email](mailto:[your-email]) or [LinkedIn](https://www.linkedin.com/in/[your-linkedin-url]/).
+If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me via [email](mailto:chuyuezhang671@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chuyue-zhang-27216a207/).
 
