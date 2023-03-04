@@ -24,24 +24,25 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- I am an undergraduate computer engineer student. 
-- I am interested in software development, game development, machine learning and computer graphics
-- I am currently working on multiple projects, hope they would come out soon.
+- I am an undergraduate **computer engineer** student. 
+- I am interested in **software development, game development, machine learning and computer graphics**
+- I am currently working on **multiple projects**, hope they would come out soon.
 
 ## Skills
 
-- Programming Languages: C/C++/C#, Rust, Python
-- Frontend: HTML, CSS, JavaScript, Flask
-- Database: MySQL, PANDAS, PostgreSQL
-- Machine Learning: Pytorch
-- Game Development: C#, Unity, Maya, Photoshop
-- Computer Graphics: OpenGL, Rasterization, Ray Tracing, Geometry
+- **Programming Languages:** C/C++, C#, Rust, Python
+- **Frontend:** HTML, CSS, JavaScript, Flask
+- **Database:** MySQL, PANDAS, PostgreSQL
+- **Machine Learning:** Pytorch
+- **Game Development:** C#, Unity, Maya, Photoshop
+- **Computer Graphics:** OpenGL, Rasterization, Ray Tracing, Geometry
 
 ## Projects
 
 - [2.5D Puzzle Game: Candle Lighter](https://github.com/ECE496-Game-Project/Optics-Cheems)
 - [Neural Network: EmoNet](https://github.com/IronDumpling/EmoNet)
 - [Game Engine: PilotEngine](https://github.com/IronDumpling/PilotEngine)
+- [Twitter-like Website Demo: MindVoice](https://github.com/IronDumpling/MindVoice_Project)
 
 ## Education
 
