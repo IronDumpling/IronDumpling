@@ -24,14 +24,18 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a software engineer with 2 years of experience in gaming industry. I have a strong background in [specific skills or technologies] and have worked with a variety of clients from [specific industries or sectors].
+- I am an undergraduate computer engineer student. 
+- I am interested in software development, game development, machine learning and computer graphics
+- I am currently working on multiple projects, hope they would come out soon.
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+- Programming Languages: C/C++/C#, Rust, Python
+- Frontend: HTML, CSS, JavaScript, Flask
+- Database: MySQL, PANDAS, PostgreSQL
+- Machine Learning: Pytorch
+- Game Development: C#, Unity, Maya, Photoshop
+- Computer Graphics: OpenGL, Rasterization, Ray Tracing, Geometry
 
 ## Projects
 
@@ -41,7 +45,11 @@ I am a software engineer with 2 years of experience in gaming industry. I have a
 
 ## Education
 
-- [Bachelor] in [Computer Engineering], [University of Toronto], [2024]
+- Bachelor in Computer Engineering, University of Toronto, 2019 - 2024
+
+## Experience
+
+- Software Engineer in PSG, Intel Corp, 2022 - 2023
 
 ## Contact Me
 
