@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chuyue-zhang-27216a207/)
 [![Twitter](https://img.shields.io/twitter/follow/Irondump1ing?style=social)](https://twitter.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/IronDumpling)
-[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://www.chuyue.com/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange)](https://www.chuyue.ca/)
 
 ## About Me
 
