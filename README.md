@@ -1,4 +1,4 @@
-### Hi there, I'm... 👋
+### 👋 Hi there, I'm... 
 
 <!--
 **IronDumpling/IronDumpling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- I am an undergraduate **computer engineer** student. 
-- I am interested in **software development, game development, machine learning and computer graphics**
-- I am currently working on **multiple projects**, hope they would come out soon.
+- :books: I am an undergraduate **computer engineer** student. 
+- 🌱 I am interested in **software development, game development, machine learning and computer graphics**
+- 🔭 I am currently working on **multiple projects**, hope they would come out soon.
 
 ## Skills
 
