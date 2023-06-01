@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ## Projects
 
 - [2.5D Puzzle Game: Candle Lighter](https://github.com/ECE496-Game-Project/Optics-Cheems)
+- [3D Runner Game: Backtrack](https://github.com/FinalProject-Team1-Backtrack/mainProject)
 - [Neural Network: EmoNet](https://github.com/IronDumpling/EmoNet)
 - [Mini Game Engine: PilotEngine](https://github.com/IronDumpling/PilotEngine)
 - [Twitter-like Website Demo: MindVoice](https://github.com/IronDumpling/MindVoice_Project)
