@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ## Projects
 
+- [2D Vampire Survivor-like Game: Overclock Survivor](https://github.com/IronDumpling/over-clock-survivor)
 - [2.5D Puzzle Game: Candle Lighter](https://github.com/ECE496-Game-Project/Optics-Cheems)
 - [3D Runner Game: Backtrack](https://github.com/FinalProject-Team1-Backtrack/mainProject)
 - [Neural Network: EmoNet](https://github.com/IronDumpling/EmoNet)
