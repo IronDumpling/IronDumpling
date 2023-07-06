@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## About Me
 
 - :books: I am an undergraduate **computer engineer** student. 
-- 🌱 I am interested in **software development, game development, machine learning and computer graphics**
+- 🌱 I am interested in **software development, game development, machine learning, and computer graphics**
 - 🔭 I am currently working on **multiple projects**, hope they would come out soon.
 
 ## Skills
@@ -33,8 +33,12 @@ Here are some ideas to get you started:
 - **Programming Languages:** C/C++, C#, Rust, Python
 - **Frontend:** HTML, CSS, JavaScript, Flask
 - **Database:** MySQL, PANDAS, PostgreSQL
-- **Machine Learning:** Pytorch
-- **Game Development:** C#, Unity, Maya, Photoshop
+
+## Knowledge
+- **Machine Learning:** Pytorch, Reinforcement Learning
+- **Operating System:** Thread
+- **Computer Network:** TCP, UDP
+- **Game Development:** Unity, MAYA, Photoshop
 - **Computer Graphics:** OpenGL, Rasterization, Ray Tracing, Geometry
 
 ## Projects
