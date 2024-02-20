@@ -25,30 +25,30 @@ Here are some ideas to get you started:
 ## About Me
 
 - :books: I am an undergraduate **computer engineer** student. 
-- 🌱 I am interested in **software development, game development, machine learning, and computer graphics**
+- 🌱 I am interested in **system programming, full-stack development, game development, and computer graphics**
 - 🔭 I am currently working on **multiple projects**, hope they would come out soon.
 
 ## Skills
 
-- **Programming Languages:** C/C++, C#, Rust, Python
-- **Frontend:** HTML, CSS, JavaScript, Flask
+- **Programming Languages:** C/C++, C#, Java, Rust, Python
+- **Fullstack:** HTML&CSS, JavaScript, React, Django
 - **Database:** MySQL, PANDAS, PostgreSQL
 
 ## Knowledge
+
+- **Operating System:** Parallel Programming, File System, Memory Management
+- **Distributed System:** Distributed Coordination, Fault Tolerance, Consistency
+- **Computer Network:** Socket Programming, Ethernet, Routing, Internetworking
+- **Compiler:** LLVM, Antlr4, Compiler Optimization, Parser, Semantic Analysis
+- **Game Development:** Unity, MAYA, Photoshop, Level Design
+- **Computer Graphics:** OpenGL, Rasterization, Ray Tracing, Geometry, Inverse Kinematics, Physics-based Animation
 - **Machine Learning:** Pytorch, Reinforcement Learning
-- **Operating System:** Thread
-- **Computer Network:** TCP, UDP
-- **Game Development:** Unity, MAYA, Photoshop
-- **Computer Graphics:** OpenGL, Rasterization, Ray Tracing, Geometry
 
 ## Projects
 
-- [2D Vampire Survivor-like Game: Overclock Survivor](https://github.com/IronDumpling/over-clock-survivor)
-- [2.5D Puzzle Game: Candle Lighter](https://github.com/ECE496-Game-Project/Optics-Cheems)
 - [3D Runner Game: Backtrack](https://github.com/FinalProject-Team1-Backtrack/mainProject)
 - [Neural Network: EmoNet](https://github.com/IronDumpling/EmoNet)
 - [Mini Game Engine: PilotEngine](https://github.com/IronDumpling/PilotEngine)
-- [Twitter-like Website Demo: MindVoice](https://github.com/IronDumpling/MindVoice_Project)
 
 ## Education
 
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 ## Contact Me
 
-If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me via [email](mailto:chuyuezhang671@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chuyue-zhang-27216a207/).
+If you have any questions or would like to discuss potential opportunities, please feel free to reach out to me via [email](mailto:irondumpling233@outlook.com) or [LinkedIn](https://www.linkedin.com/in/chuyue-zhang-27216a207/).
 
