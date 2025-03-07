@@ -46,8 +46,10 @@ Here are some ideas to get you started:
 
 ## Projects
 
+- [Distributed Storage System](https://github.com/IronDumpling/distributed-storage-service)
+- [Small C Compiler](https://github.com/IronDumpling/LLVM-small-C-IR-Generator) 
 - [3D Runner Game: Backtrack](https://github.com/FinalProject-Team1-Backtrack/mainProject)
-- [Neural Network: EmoNet](https://github.com/IronDumpling/EmoNet)
+- [2D Roguelite Game: Signal Chariot](https://github.com/IronDumpling/signal-chariot) 
 - [Mini Game Engine: PilotEngine](https://github.com/IronDumpling/PilotEngine)
 
 ## Education
